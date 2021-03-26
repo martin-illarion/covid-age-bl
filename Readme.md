@@ -1,6 +1,6 @@
 ## Quellen
-https://covid19-dashboard.ages.at/
+[1] https://covid19-dashboard.ages.at/
 
-https://covid19-dashboard.ages.at/data/data.zip
+[2] https://covid19-dashboard.ages.at/data/data.zip
 
-https://github.com/keriati/austria-covid-data
+[3] https://github.com/keriati/austria-covid-data
