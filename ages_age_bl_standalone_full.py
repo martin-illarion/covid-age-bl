@@ -63,13 +63,9 @@ for b in bl:
     #print(b)
     hdr=True
     
-    out_fl = path + b + ".csv"
-    
-    
+    out_fl = path + b + "_full.csv"
     
 
-
-    
     f = open(out_fl, "r")
     contents = f.readlines()
     f.close()
@@ -77,14 +73,11 @@ for b in bl:
     with open(out_fl,"r+", encoding='utf-8') as csv_out:
         res_line = dat
         for age in population[b]["M"]:
-            pop = population[b]["M"][age] + population[b]["W"][age]
-            res_line += "," + str(pop)
+            res_line += "," + str(population[b]["M"][age]) + "," + str(population[b]["W"][age])
         for age in infected[b]["M"]:
-            inf = infected[b]["M"][age] + infected[b]["W"][age]
-            res_line += "," + str(inf)
+            res_line += "," + str(infected[b]["M"][age]) + "," + str(infected[b]["W"][age])
         for age in dead[b]["M"]:
-            dea = dead[b]["M"][age] + dead[b]["W"][age]
-            res_line += "," + str(dea)
+            res_line += "," + str(dead[b]["M"][age]) + "," + str(dead[b]["W"][age])
         res_line += "\n"
         
         contents = csv_out.readlines()
@@ -96,3 +89,4 @@ for b in bl:
         #print(b + ": " + res_line)
         #csv_out.write(res_line)
         #hdr = False
+
