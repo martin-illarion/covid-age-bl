@@ -14,10 +14,10 @@ def mk_int(s):
     return int(s) if s else 0
 
 file="//home/ubuntu/ages_age/covid-age-bl/CovidFaelle_Altersgruppe.csv"
-#WIN file="C:\\Users\\mpolak_cloudbees\\Dropbox\\python\\covid_github\\CovidFaelle_Altersgruppe.csv"
+#file="C:\\Users\\mpolak_cloudbees\\Dropbox\\python\\covid_github\\CovidFaelle_Altersgruppe.csv"
 
 path="/home/ubuntu/ages_age/covid-age-bl/"
-#WIN path="C:\\Users\\mpolak_cloudbees\\Dropbox\\python\\covid_github\\dest\\"
+#path="C:\\Users\\mpolak_cloudbees\\Dropbox\\python\\covid_github\\dest\\"
 
 age_grps=["<5","5-14","15-24","25-34","35-44","45-54","55-64","65-74","75-84",">84"]
 
@@ -33,6 +33,7 @@ csv_file.close()
 infected = {}
 population = {}
 dead = {}
+set_hdr = {}
 # utf-8
 with open(file, newline='',encoding="utf-8-sig") as csvfile:
     cov_reader = csv.DictReader(csvfile, delimiter=';')
@@ -53,6 +54,7 @@ with open(file, newline='',encoding="utf-8-sig") as csvfile:
                 infected[date][bundesland] = {}
                 population[date][bundesland] = {}
                 dead[date][bundesland] = {}
+                set_hdr[bundesland] = True
             if geschlecht not in infected[date][bundesland]:
                 infected[date][bundesland][geschlecht] = {}
                 population[date][bundesland][geschlecht] = {}
@@ -63,16 +65,13 @@ with open(file, newline='',encoding="utf-8-sig") as csvfile:
         else:
             print("Geschlecht U gefunden. " + bundesland + " " + row["Anzahl"])
 
-
-set_hdr = True
-
 for dat_i, inf_i in sorted(list(infected.items()), key=lambda x:x[0].lower(), reverse=True):
     for bl in infected[dat_i]:
         out_fl_full = path + bl + "_full.csv"
         out_fl = path + bl + ".csv"
 
         with open(out_fl,"a+", encoding='utf-8') as csv_out:
-            if set_hdr:
+            if set_hdr[bl]:
                 hdr = "date"
                 hdr_full = "date"
                 for ag in age_grps:
@@ -104,10 +103,10 @@ for dat_i, inf_i in sorted(list(infected.items()), key=lambda x:x[0].lower(), re
             line_full += "\n"
             csv_out.write(line)
         with open(out_fl_full,"a+", encoding='utf-8') as csv_out_full:
-            if set_hdr:
+            if set_hdr[bl]:
                 csv_out_full.seek(0)
-                print("Set full to seek 0, set_hdr: " + str(set_hdr))
                 csv_out_full.truncate()
                 csv_out_full.write(hdr_full)
-                set_hdr = False
+                set_hdr[bl] = False
             csv_out_full.write(line_full)
+            
