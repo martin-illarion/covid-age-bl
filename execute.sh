@@ -8,9 +8,9 @@ echo "$dt [INFO] git pull done"
 python3 ages_age_bl_standalone.py
 echo "$dt [INFO] ages age done"
 
-python3 ages_age_bl_standalone_full.py
+#python3 ages_age_bl_standalone_full.py
 
-echo "$dt [INFO] ages age FULL done"
+#echo "$dt [INFO] ages age FULL done"
 
 dat=$(date)
 
