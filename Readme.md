@@ -112,6 +112,9 @@ https://experience.arcgis.com/experience/94395b1f31364583972ffd12f214b6c4
 ## Land Salzburg, Tagesaktuell Zahlen pro Gemeinde
 https://www.salzburg.gv.at/api5/datalinq/report/kribe@sbgappbez@sbgappbez
 
+## Land Oberösterreich, gelegentlich Tagesaktuell Hospitalisierungen nach Altersgruppen
+https://www.land-oberoesterreich.gv.at/269605.htm
+
 
 
 # Inoffizielle Quellen
