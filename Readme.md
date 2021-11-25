@@ -115,11 +115,15 @@ https://www.salzburg.gv.at/api5/datalinq/report/kribe@sbgappbez@sbgappbez
 ## Land Oberösterreich, gelegentlich Tagesaktuell Hospitalisierungen nach Altersgruppen
 https://www.land-oberoesterreich.gv.at/269605.htm
 
-
+## Land Oberösterreich dashboard, Tagesaktuell Zahlen pro Gemeinde
+https://experience.arcgis.com/experience/94e1ad687e4b4a17aca552934565a466
 
 # Inoffizielle Quellen
-## Keriati
+## Keriati (nicht mehr aktuell)
 https://github.com/keriati/austria-covid-data
 
 ## Inoffizielles Statistik Austria Covid-Archiv
 https://github.com/statistikat/coronaDAT
+
+## Daniel Breuss
+https://github.com/Daniel-Breuss/covid-data-austria
