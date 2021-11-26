@@ -118,6 +118,9 @@ https://www.land-oberoesterreich.gv.at/269605.htm
 ## Land Oberösterreich dashboard, Tagesaktuell Zahlen pro Gemeinde
 https://experience.arcgis.com/experience/94e1ad687e4b4a17aca552934565a466
 
+## Gelegentliche Zahlen zu Hospitalisierungen bei Kindern
+https://paediatrie.at/fallmeldungen
+
 # Inoffizielle Quellen
 ## Keriati (nicht mehr aktuell)
 https://github.com/keriati/austria-covid-data
