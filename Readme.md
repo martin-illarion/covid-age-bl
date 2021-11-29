@@ -63,6 +63,7 @@ https://info.gesundheitsministerium.gv.at/data/COVID19_vaccination_certificates.
 
 ## Tagesaktuell Impfquoten/-zahlen nach Gemeinden
 https://info.gesundheitsministerium.at/data/COVID19_vaccination_municipalities.csv
+
 https://info.gesundheitsministerium.gv.at/data/impfungen-gemeinden.csv (nur bis 15.12.21 gültig)
 
 ## Zeitreihe bestellte & ausgelieferte Impfdosen pro Bundesland 
@@ -76,16 +77,21 @@ https://covid19-dashboard.ages.at/data/CovidFaelle_Altersgruppe.csv
 
 ## Impfdurchbrüche
 https://www.ages.at/themen/krankheitserreger/coronavirus/
+
 https://www.ages.at/download/0/0/6c9015070f43f7297bb83d1811282be9fd7b41cf/fileadmin/AGES2015/Themen/Krankheitserreger_Dateien/Coronavirus/Impfdurchbruch/Impfdurchbr%C3%BCche_20211109.pdf
 
 ## Zeitreihe Inzidenz nach Impfstatus & Altersgruppe (alle)
 https://www.ages.at/fileadmin/AGES2015/Themen/Krankheitserreger_Dateien/Coronavirus/Inzidenz_Impfstatus/Inzidenz_Impfstatus_12bis17Jahre.csv
+
 https://www.ages.at/fileadmin/AGES2015/Themen/Krankheitserreger_Dateien/Coronavirus/Inzidenz_Impfstatus/Inzidenz_Impfstatus_18bis59Jahre.csv
+
 https://www.ages.at/fileadmin/AGES2015/Themen/Krankheitserreger_Dateien/Coronavirus/Inzidenz_Impfstatus/Inzidenz_Impfstatus_60plus.csv
 
 ## Zeitreihe Inzidenz nach Impfstatus & Altersgruppe (symptomatische)
 https://www.ages.at/fileadmin/AGES2015/Themen/Krankheitserreger_Dateien/Coronavirus/Inzidenz_Impfstatus/Inzidenz_Impfstatus_Erkrankte_12-17_Jahre.csv
+
 https://www.ages.at/fileadmin/AGES2015/Themen/Krankheitserreger_Dateien/Coronavirus/Inzidenz_Impfstatus/Inzidenz_Impfstatus_Erkrankte_18-59_Jahre.csv
+
 https://www.ages.at/fileadmin/AGES2015/Themen/Krankheitserreger_Dateien/Coronavirus/Inzidenz_Impfstatus/Inzidenz_Impfstatus_Erkrankte_60__Jahre.csv
 
 ## Impfeffektivität
