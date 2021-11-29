@@ -98,7 +98,10 @@ https://www.ages.at/themen/krankheitserreger/coronavirus/sars-cov-2-varianten-in
 https://goeg.at/Intensivpflege_COVID
 
 ## Abwasser-Monitoring
+### Dashboard
 https://bmbwf.hydro-it.com/dashboard/
+### Rohdaten
+https://corona.hydro-it.com/cbe1/blverlauf
 
 ## Empfehlungen der Corona-Ampel-Kommission: Aufklärungsquoten, Asymptomatische Fälle, Infektionssettings, Schul-Testquoten nach Testart, Schulstufe, KH-Kapazitäten nach Bundesland. Maßnahmenübersicht.
 https://corona-ampel.gv.at/corona-kommission/empfehlungen-der-corona-kommission/
