@@ -31,6 +31,9 @@ https://info.gesundheitsministerium.gv.at/?re=tabelle
 ## Zeitreihe E-Impfpass (1.- u 2.-Impfungen)
 https://info.gesundheitsministerium.gv.at/data/timeline-eimpfpass.csv
 
+## Tagesaktuelle Zahlen nach Altersgruppen
+https://info.gesundheitsministerium.gv.at/data/COVID19_vaccination_doses_agegroups.csv
+
 ## Tagesaktuelle Fallzahlen BMI nach Bundesland
 https://www.bmi.gv.at/news.aspx?id=4A7171477A51625143334D3D
 
