@@ -81,18 +81,18 @@ https://www.ages.at/themen/krankheitserreger/coronavirus/
 https://www.ages.at/download/0/0/6c9015070f43f7297bb83d1811282be9fd7b41cf/fileadmin/AGES2015/Themen/Krankheitserreger_Dateien/Coronavirus/Impfdurchbruch/Impfdurchbr%C3%BCche_20211109.pdf
 
 ## Zeitreihe Inzidenz nach Impfstatus & Altersgruppe (alle)
-https://www.ages.at/fileadmin/AGES2015/Themen/Krankheitserreger_Dateien/Coronavirus/Inzidenz_Impfstatus/Inzidenz_Impfstatus_12bis17Jahre.csv
+https://www.ages.at/fileadmin/AGES2015/Themen/Krankheitserreger_Dateien/Coronavirus/Inzidenz_Impfstatus/Inzidenz_Immunstatus_12bis17Jahre.csv
 
-https://www.ages.at/fileadmin/AGES2015/Themen/Krankheitserreger_Dateien/Coronavirus/Inzidenz_Impfstatus/Inzidenz_Impfstatus_18bis59Jahre.csv
+https://www.ages.at/fileadmin/AGES2015/Themen/Krankheitserreger_Dateien/Coronavirus/Inzidenz_Impfstatus/Inzidenz_Immunstatus_18bis59Jahre.csv
 
-https://www.ages.at/fileadmin/AGES2015/Themen/Krankheitserreger_Dateien/Coronavirus/Inzidenz_Impfstatus/Inzidenz_Impfstatus_60plus.csv
+https://www.ages.at/fileadmin/AGES2015/Themen/Krankheitserreger_Dateien/Coronavirus/Inzidenz_Impfstatus/Inzidenz_Immmunstatus_60plus.csv
 
 ## Zeitreihe Inzidenz nach Impfstatus & Altersgruppe (symptomatische)
-https://www.ages.at/fileadmin/AGES2015/Themen/Krankheitserreger_Dateien/Coronavirus/Inzidenz_Impfstatus/Inzidenz_Impfstatus_Erkrankte_12-17_Jahre.csv
+https://www.ages.at/fileadmin/AGES2015/Themen/Krankheitserreger_Dateien/Coronavirus/Inzidenz_Impfstatus/Inzidenz_Immunstatus_Erkrankte_12-17_Jahre.csv
 
-https://www.ages.at/fileadmin/AGES2015/Themen/Krankheitserreger_Dateien/Coronavirus/Inzidenz_Impfstatus/Inzidenz_Impfstatus_Erkrankte_18-59_Jahre.csv
+https://www.ages.at/fileadmin/AGES2015/Themen/Krankheitserreger_Dateien/Coronavirus/Inzidenz_Impfstatus/Inzidenz_Immunstatus_Erkrankte_18-59_Jahre.csv
 
-https://www.ages.at/fileadmin/AGES2015/Themen/Krankheitserreger_Dateien/Coronavirus/Inzidenz_Impfstatus/Inzidenz_Impfstatus_Erkrankte_60__Jahre.csv
+https://www.ages.at/fileadmin/AGES2015/Themen/Krankheitserreger_Dateien/Coronavirus/Inzidenz_Impfstatus/Inzidenz_Immunstatus_Erkrankte_60__Jahre.csv
 
 ## Impfeffektivität
 https://www.ages.at/download/0/0/6ea07b06c144d5d51bbd6752d639bfce8eb40b61/fileadmin/AGES2015/Themen/Krankheitserreger_Dateien/Coronavirus/Impfdurchbruch/Impfeffektivit%C3%A4t_der_in_%C3%96sterreich_eingesetzten_COVID19-Impfstoffe_Ergebnisse_einer_populatonsbasierten_Kohortenstudie__KW_05-35.pdf
