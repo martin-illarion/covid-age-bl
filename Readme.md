@@ -65,9 +65,9 @@ https://info.gesundheitsministerium.gv.at/data/COVID19_vaccination_doses_agegrou
 https://info.gesundheitsministerium.gv.at/data/COVID19_vaccination_certificates.csv
 
 ### Archiv
-https://info.gesundheitsministerium.gv.at/data/archiv/COVID19_vaccination_certificates_<datum>.csv
+https://info.gesundheitsministerium.gv.at/data/archiv/COVID19_vaccination_certificates_(datum).csv
 
-wobei <datum> im Format yyyymmdd ist, also zB.:
+wobei (datum) im Format yyyymmdd ist, also zB.:
 
 https://info.gesundheitsministerium.gv.at/data/archiv/COVID19_vaccination_certificates_20211125.csv
 
@@ -76,9 +76,9 @@ https://info.gesundheitsministerium.gv.at/data/archiv/COVID19_vaccination_certif
 https://info.gesundheitsministerium.at/data/COVID19_vaccination_municipalities.csv
   
 ### Archiv
-https://info.gesundheitsministerium.at/data/archiv/COVID19_vaccination_municipalities_<datum>.csv
+https://info.gesundheitsministerium.at/data/archiv/COVID19_vaccination_municipalities_(datum).csv
   
-wobei <datum> im Format yyyymmdd ist, also zB.:
+wobei (datum) im Format yyyymmdd ist, also zB.:
 
 https://info.gesundheitsministerium.at/data/archiv/COVID19_vaccination_municipalities_20211125.csv
   
