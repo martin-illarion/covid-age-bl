@@ -152,6 +152,11 @@ https://www.salzburg.gv.at/api5/datalinq/report/kribe@sbgappbez@sbgappbez
 
 30.11.2021: https://www.land-oberoesterreich.gv.at/270394.htm
 
+## Land Oberösterreich, Landeskorrespondenzen mit Covid-Informationen (z.B. Hospitalisierungen nach Altersgruppen)
+Aktuel: https://www.land-oberoesterreich.gv.at/lksuche.htm
+
+Archiv: https://www.land-oberoesterreich.gv.at/27531.htm
+
 ## Land Oberösterreich dashboard, Tagesaktuell Zahlen pro Gemeinde
 https://experience.arcgis.com/experience/94e1ad687e4b4a17aca552934565a466
 
