@@ -148,7 +148,9 @@ https://experience.arcgis.com/experience/94395b1f31364583972ffd12f214b6c4
 https://www.salzburg.gv.at/api5/datalinq/report/kribe@sbgappbez@sbgappbez
 
 ## Land Oberösterreich, gelegentlich Tagesaktuell Hospitalisierungen nach Altersgruppen
-https://www.land-oberoesterreich.gv.at/269605.htm
+16.11.2021: https://www.land-oberoesterreich.gv.at/269605.htm
+
+30.11.2021: https://www.land-oberoesterreich.gv.at/270394.htm
 
 ## Land Oberösterreich dashboard, Tagesaktuell Zahlen pro Gemeinde
 https://experience.arcgis.com/experience/94e1ad687e4b4a17aca552934565a466
