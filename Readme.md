@@ -28,8 +28,11 @@ https://www.sozialministerium.at/Informationen-zum-Coronavirus/Neuartiges-Corona
 * Todesfälle pro Bundesland
 * Hospitalisierungszahlen pro Bundesland
 * Genesene pro Bundesland
+
 https://www.sozialministerium.at/Informationen-zum-Coronavirus/Neuartiges-Coronavirus-(2019-nCov).html
+
 Nur Tabelle:
+
 https://info.gesundheitsministerium.gv.at/?re=tabelle
 
 ## Zeitreihe E-Impfpass (1.- u 2.-Impfungen)
