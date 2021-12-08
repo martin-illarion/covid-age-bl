@@ -4,13 +4,17 @@ data.gv.at downloads
 https://www.data.gv.at/suche/?tagFilter[]=COVID-19
 
 ## Datensammlung des AGES Dashboards
-Zeitreihe Fälle nach Altersgruppe & BL, 
-Tagesaktuell Fälle nach Bezirk,
-Zeitreihe Fälle nach Bezirk,
-Zeitreihe Fälle gesamt,
-Zeitreihe (ab 1.4.2020) Tests, KH-Betten, freie KH-Betten nach Bundesland,
-Zeitreihe (ab 24.1.2021) KH-Betten, freie KH-Betten nach Bundesland,
+* Zeitreihe Fälle nach Altersgruppe & BL, 
+* Tagesaktuell Fälle nach Bezirk,
+* Zeitreihe Fälle nach Bezirk,
+* Zeitreihe Fälle gesamt,
+* Zeitreihe (ab 1.4.2020) Tests, KH-Betten, freie KH-Betten nach Bundesland,
+* Zeitreihe (ab 24.1.2021) KH-Betten, freie KH-Betten nach Bundesland
+
 https://covid19-dashboard.ages.at/data/data.zip
+
+## Daten hinter dem AGES Dashboard
+https://covid19-dashboard.ages.at/data/JsonData.json
 
 ## AGES Dashboard
 https://covid19-dashboard.ages.at/
