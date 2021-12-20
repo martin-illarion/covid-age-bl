@@ -126,7 +126,7 @@ https://www.ages.at/download/0/0/6ea07b06c144d5d51bbd6752d639bfce8eb40b61/filead
 ## Zeitreihe Virusvarianten
 https://www.ages.at/themen/krankheitserreger/coronavirus/sars-cov-2-varianten-in-oesterreich/
 
-## Intensivpatienten nach Altersgruppen, Geschlecht und Padndemie-Phasen
+## Intensivpatienten nach Altersgruppen, Geschlecht und Pandemie-Phasen
 https://goeg.at/Intensivpflege_COVID
 
 ## Abwasser-Monitoring
