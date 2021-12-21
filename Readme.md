@@ -35,7 +35,7 @@ Nur Tabelle:
 
 https://info.gesundheitsministerium.gv.at/?re=tabelle
 
-## Zeitreihe E-Impfpass (1.- u 2.-Impfungen)
+## Zeitreihe E-Impfpass (1.- u 2.-Impfungen) (bis 14.12.2021)
 https://info.gesundheitsministerium.gv.at/data/timeline-eimpfpass.csv
 
 ## Tagesaktuelle Zahlen nach Altersgruppen
@@ -67,6 +67,10 @@ https://info.gesundheitsministerium.gv.at/data/COVID19_vaccination_doses_timelin
 
 ## Zeitreihe Impfdosen nach Altersgruppen, Geschlecht, Bundesland, Dosis-Nr, Impfstoff:
 https://info.gesundheitsministerium.gv.at/data/COVID19_vaccination_doses_agegroups.csv
+
+Archiv ab 29.10.2021 (20211029) unter
+
+https://info.gesundheitsministerium.gv.at/data/archiv/COVID19_vaccination_doses_agegroups_yyyymmdd.csv
 
 ## Tagesaktuell gültige Impfzertifiate nach Bundesland, Alter, Geschlecht, Einwohner
 https://info.gesundheitsministerium.gv.at/data/COVID19_vaccination_certificates.csv
