@@ -167,6 +167,9 @@ https://experience.arcgis.com/experience/94e1ad687e4b4a17aca552934565a466
 ## Gelegentliche Zahlen zu Hospitalisierungen bei Kindern
 https://paediatrie.at/fallmeldungen
 
+## Statistik Austria Daten zu Immunstatus, Demografie etc. von Impfungen
+https://www.statistik.at/web_de/presse/127333.html
+
 # Inoffizielle Quellen
 ## Keriati (nicht mehr aktuell)
 https://github.com/keriati/austria-covid-data
