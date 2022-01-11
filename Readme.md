@@ -179,3 +179,10 @@ https://github.com/statistikat/coronaDAT
 
 ## Daniel Breuss
 https://github.com/Daniel-Breuss/covid-data-austria
+
+## Google Mobility Data
+https://www.gstatic.com/covid19/mobility/2020_AT_Region_Mobility_Report.csv
+
+https://www.gstatic.com/covid19/mobility/2021_AT_Region_Mobility_Report.csv
+
+https://www.gstatic.com/covid19/mobility/2022_AT_Region_Mobility_Report.csv
