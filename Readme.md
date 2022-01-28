@@ -170,6 +170,18 @@ https://paediatrie.at/fallmeldungen
 ## Statistik Austria Daten zu Immunstatus, Demografie etc. von Impfungen
 https://www.statistik.at/web_de/presse/127333.html
 
+## Impfstatus von Lehrern, Schülern etc.
+https://www.statistik.at/web_de/statistiken/menschen_und_gesellschaft/gesundheit/covid19/covid19_impfstatus/index.html
+
+## Sterbefälle nach Impfstatus
+https://www.statistik.at/web_de/statistiken/menschen_und_gesellschaft/gesundheit/covid19/gestorbene_mit_ohne_covid_19_impfung/index.html
+
+## Immunstatus nach demografischen Parametern
+https://www.statistik.at/web_de/statistiken/menschen_und_gesellschaft/gesundheit/covid19/covid19_geimpft_genesen_status/index.html
+
+## Prävalenz
+https://www.statistik.at/web_de/statistiken/menschen_und_gesellschaft/gesundheit/covid19/covid19_praevalenz/index.html
+
 # Inoffizielle Quellen
 ## Keriati (nicht mehr aktuell)
 https://github.com/keriati/austria-covid-data
