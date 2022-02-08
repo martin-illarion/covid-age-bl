@@ -133,6 +133,9 @@ https://www.ages.at/themen/krankheitserreger/coronavirus/sars-cov-2-varianten-in
 ## Intensivpatienten nach Altersgruppen, Geschlecht und Pandemie-Phasen
 https://goeg.at/Intensivpflege_COVID
 
+## Seroprävalenzstudien
+https://www.statistik.at/web_de/statistiken/menschen_und_gesellschaft/gesundheit/covid19/covid19_praevalenz/index.html
+
 ## Abwasser-Monitoring
 ### Dashboard
 https://bmbwf.hydro-it.com/dashboard/
