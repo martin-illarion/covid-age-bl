@@ -131,7 +131,10 @@ https://www.ages.at/download/0/0/6ea07b06c144d5d51bbd6752d639bfce8eb40b61/filead
 https://www.ages.at/themen/krankheitserreger/coronavirus/sars-cov-2-varianten-in-oesterreich/
 
 ## Intensivpatienten nach Altersgruppen, Geschlecht und Pandemie-Phasen
-https://goeg.at/Intensivpflege_COVID
+https://goeg.at/COVID-19_Hospitalisierungen
+
+## Vakzineffizienz nach Altersgruppen
+https://goeg.at/Vakzineffektivitaet
 
 ## Seroprävalenzstudien
 https://www.statistik.at/web_de/statistiken/menschen_und_gesellschaft/gesundheit/covid19/covid19_praevalenz/index.html
