@@ -1,6 +1,6 @@
 dt=$(date)
 
-echo "Executed on/at ${date}" >> ~/ages_age/covid-age-bl/execute.log
+echo "Executed on/at ${dt}" >> ~/ages_age/covid-age-bl/execute.log
 
 cd /home/ubuntu/ages_age/covid-age-bl/
 
